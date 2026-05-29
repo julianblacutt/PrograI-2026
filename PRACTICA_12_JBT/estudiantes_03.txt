@@ -1,0 +1,12 @@
+Nombre: Julian
+Edad: 19
+Promedio: 9
+
+Nombre: José
+Edad: 19
+Promedio: 9.1
+
+Nombre: Canela
+Edad: 19
+Promedio: 9.2
+

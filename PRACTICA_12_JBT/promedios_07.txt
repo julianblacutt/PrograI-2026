@@ -1,0 +1,6 @@
+Juan 7.875
+Ana 8.25
+Luis 6.25
+Julian 8.2
+José 8.7
+Canela 8.75
